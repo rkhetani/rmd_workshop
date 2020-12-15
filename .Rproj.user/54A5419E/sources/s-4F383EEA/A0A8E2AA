@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1607442854316.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A0A8E2AA",
+    "lastKnownWriteTime" : 1607446155,
+    "last_content_update" : 1607446155495,
+    "path" : "~/Dropbox (Harvard University)/HBC Team Folder (1)/Teaching/Courses/2020 (modular with pre-reqs)/All_12_08-reproducible_research-2020/rmd_workshop/workshop-example.rmd",
+    "project_path" : "workshop-example.rmd",
+    "properties" : {
+        "cursorPosition" : "43,49",
+        "scrollLine" : "37"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
